@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://ucfab670826474db63ea27bf0204.dl.dropboxusercontent.com/cd/0/get/A7urT_lp7l4b9kqrd8kEx8bQK8KsGH_dIQ_PlsEgZqY6up6LrCvFDKamvkAQ8XjtQ_PwPiKZVcqOuSMOlaFDOs1Z1GL42Uaz0cQXGiHRh1S9BuRhiCRp4dJy_n6gzc8XnCw/file?_download_id=47474642746001472495131994206609760465344704160089036879509219089&_notify_domain=www.dropbox.com&dl=1</string>
+				</dict>
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://telegra.ph/file/08df0388373ad159033a1.jpg</string>
+	            </dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>supplies.wall.phoenix</string>
+				<key>bundle-version</key>
+				<string>6.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Phoenix5 Jailbreak</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
